@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+body {
+background: url(../images/homebg.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-position-y: -60px;
+-o-background-size: cover;
+}
+#centre_main
+{
+	
+	padding-top: 20%;
+	color:#222d32;
+}
+#para1
+{
+	font-size: 40px;
+}
+#dat
+{
+	font-size: 20px;
+}
+#tim
+{
+	font-size: 20px;
+}
